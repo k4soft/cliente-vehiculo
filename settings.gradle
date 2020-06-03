@@ -1,0 +1,2 @@
+rootProject.name='cliente vehiculo'
+include ':app'
